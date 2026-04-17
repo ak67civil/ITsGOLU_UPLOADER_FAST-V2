@@ -44,7 +44,7 @@ Please contact the admin to renew your subscription.</blockquote>""",
 🆔 User ID: {user_id}
 📅 Expiry: {expiry_date}</blockquote>""",
 
-    "user_removed": """<b>✅ User Removed Successfully!</b>
+    "user_removed": """<b> User Removed Successfully!</b>
 
 <blockquote>User ID {user_id} has been removed from authorized users.</blockquote>""",
 
